@@ -3,7 +3,7 @@
 
 Polygon Drawing simple app built in React to draw polygons. 
 
-Deployed in Vercel: https://polygon-drawing-5vghu1oq0-oteiza-a.vercel.app/
+Deployed in Vercel: https://polygon-drawing-app.vercel.app/
 
 ## Demo
 ![PolygonDrawingGif1](https://user-images.githubusercontent.com/49501058/193473375-467351d6-e5cd-43bb-af39-a4c76a3d45ef.gif)
