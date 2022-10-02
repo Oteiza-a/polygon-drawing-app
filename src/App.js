@@ -75,8 +75,8 @@ function App() {
         />
       </div>
       <div className="app__options">
-        <ActionButton icon={<RiEditLine size="20" />} text="Finish Polygon" onClick={finishPolygon}/>
-        <ActionButton icon={<RiRestartLine size="20" />} text="Clear" onClick={clearCanvas}/>
+        <ActionButton icon={<RiEditLine size="20" />} text="Complete Polygon" onClick={finishPolygon}/>
+        <ActionButton icon={<RiRestartLine size="20" />} text="Reset" onClick={clearCanvas}/>
       </div>
       <div>
         <h2 className="title">Your Saved Polygons</h2>
